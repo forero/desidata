@@ -1,11 +1,11 @@
-#Name nobs priority program
-BGS	 1  1	    BRIGHT
-QSO	 1  1	    DARK
-QSOLYA	 5  1	    DARK
-SKY	 1  2	    ANY
-LRG   	 2  3	    DARK
-STAR	 1  4	    ANY
-ELG	 1  5	    DARK
+#Name nobs priority bitoffset program
+QSOLYA	 5  1	    0         DARK
+QSO	 1  1	    1         DARK
+LRG   	 2  3	    2         DARK
+ELG	 1  5	    3         DARK
+STAR	 1  4	    4         ANY
+SKY	 1  2	    5         ANY 
+BGS	 1  1	    6         BRIGHT
 
 
 
