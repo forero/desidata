@@ -1,0 +1,17 @@
+targetmask:
+    - [QSOLYA,       0, "Lyman alpha QSO", "DARK", 1, 5]
+    - [QSO,       1, "Tracer QSO", "DARK", 1, 1]
+    - [LRG,      2, "Luminous Red Galaxy", "DARK", 3, 2]
+    - [ELG, 3, "Emission Line Galaxy", "DARK", 5, 1]
+    - [STAR,    4, "Standard Star", "ANY", 4, 1]
+    - [SKY, 5, "Sky", "ANY", 2, 1] 
+    - [BGS, 6, "Bright Galaxy", "BRIGHT", 1, 1]
+# Name
+# bitoffset
+# comment
+# survey
+# priority (lower value indicated higher priority)
+# number of observations
+
+
+
