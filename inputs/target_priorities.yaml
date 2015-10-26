@@ -5,10 +5,10 @@ targetpriorities:
     - [ELG, 400, "Emission Line Galaxy"]
     - [STAR, 500, "Standard Star"]
     - [SKY, 600, "Sky"]
-    - [BGS_FAINT, 700, "r<19.5 gals without redshift measurement"]
-    - [BGS_BRIGHT, 720, "19.5<r<20.0 gals without redshift measurement"]
-    - [BGS_FAINT_ZCONFIRMED, 740, "BGS_FAINT with successful redshift measurement."]
-    - [BGS_BRIGHT_ZCONFIRMED, 760, "BGS_BRIGHT with successful redshift measurement"]
+    - [BGS_BRIGHT, 700, "r<19.5 gals without redshift measurement"]
+    - [BGS_FAINT, 720, "19.5<r<20.0 gals without redshift measurement"]
+    - [BGS_BRIGHT_ZCONFIRMED, 740, "BGS_BRIGHT with successful redshift measurement."]
+    - [BGS_FAINT_ZCONFIRMED, 760, "BGS_FAINT with successful redshift measurement"]
     - [MW_STAR, 800, "MW star"]
 # Name
 # Priority
